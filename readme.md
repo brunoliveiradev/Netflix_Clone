@@ -33,9 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-O objetivo é recriar a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
-Foi recriado a interface do prinicpal site de streaming, o Netflix, com o objetivo de fixar os conceitos sobre o HTML5, CSS3 e JavaScript, como layout, posicionar os elementos com Flexbox, tags e como utilizar plugins Jquery a favor da aplicação. :green_heart:
+Foi recriado a interface do prinicpal site de streaming, o Netflix, com o objetivo de fixar os conceitos sobre o HTML5, CSS3 e JavaScript, como por exemplo a estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação. :green_heart:
 
 ## 🔖 Layout
 
