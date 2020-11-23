@@ -45,7 +45,9 @@ nav a:hover{
     color: #FFF;
 }
 
-
+.search i{
+    margin-right: 8px;
+}
 
 /* filme principal */
 .filme-principal{
